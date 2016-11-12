@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: David9998
+  name: mdmRobot1
   host: mdmRobot1
   disk_quota: 1024M
